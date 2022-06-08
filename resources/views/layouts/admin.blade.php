@@ -27,10 +27,8 @@
         </div>
         <!-- END Preloader -->
 
-
         <div id="page-container" class="sidebar-partial sidebar-visible-lg sidebar-no-animations footer-fixed">
             <!-- Alternative Sidebar -->
-
 
             <!-- END Alternative Sidebar -->
 
