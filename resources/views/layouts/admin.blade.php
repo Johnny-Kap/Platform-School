@@ -12,9 +12,7 @@
 </head>
 
 <body>
-
     <div id="page-wrapper" class="page-loading">
-
         <div class="preloader themed-background page-loading">
             <h1 class="push-top-bottom text-light text-center">
                 <strong> {{ config('title', "Gestion Etablissement") }} </strong>
